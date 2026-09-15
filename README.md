@@ -1,4 +1,4 @@
-# 📊 US police shootings — Power BI exploration
+# 📊 US police shootings: Power BI exploration
 
 A descriptive Power BI project exploring the demographics and circumstances recorded in a historical US police-shootings dataset.
 
@@ -12,8 +12,8 @@ A descriptive Power BI project exploring the demographics and circumstances reco
 
 ## 📁 Report pages
 
-- **demographics** — 12 visual containers.
-- **manner_of_death** — 14 visual containers.
+- **demographics**: 12 visual containers.
+- **manner_of_death**: 14 visual containers.
 
 The PBIX contains the report model/layout. The original source CSV is not separately committed, and the exact Kaggle dataset version and refresh path must be recovered from Power Query before attempting reproduction.
 
